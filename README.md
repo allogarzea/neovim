@@ -1,4 +1,4 @@
-# neovim 
+# Neovim 
 ###### par garzea
 
 Basic setup for [neovim](https://github.com/neovim/neovim) based on [ThePrimeagen video](https://youtu.be/w7i4amO_zaE). 
